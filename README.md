@@ -6,7 +6,8 @@
 [Сентябрь.pdf](https://github.com/Vanchichi/timetable/files/9617901/default.pdf)
 
 Октябрь:
-[Октябрь.pdf](https://github.com/Vanchichi/timetable/files/9617907/default.pdf)
+[Октябрь.pdf](https://github.com/Vanchichi/timetable/files/9618885/default.pdf)
+
 
 Ноябрь:
 [Ноябрь.pdf](https://github.com/Vanchichi/timetable/files/9617911/default.pdf)
