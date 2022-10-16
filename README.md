@@ -3,13 +3,14 @@
 Заметили ошибку сообщите!
 
 Сентябрь: 
-[Сентябрь.pdf](https://github.com/Vanchichi/timetable/files/9644425/Сентябрь.pdf)
+[Сентябрь.pdf](https://github.com/Vanchichi/timetable/files/9793996/default.pdf)
 
 Октябрь:
-[Октябрь.pdf](https://github.com/Vanchichi/timetable/files/9793989/Октябрь.pdf)
+[Октябрь.pdf](https://github.com/Vanchichi/timetable/files/9793995/default.pdf)
 
 Ноябрь:
-[Ноябрь.pdf](https://github.com/Vanchichi/timetable/files/9793982/Ноябрь.pdf)
+[Ноябрь.pdf](https://github.com/Vanchichi/timetable/files/9793992/default.pdf)
 
 Декабрь:
-[Декабрь.pdf](https://github.com/Vanchichi/timetable/files/9793985/Декабрь.pdf)
+[Декабрь.pdf](https://github.com/Vanchichi/timetable/files/9793991/default.pdf)
+
